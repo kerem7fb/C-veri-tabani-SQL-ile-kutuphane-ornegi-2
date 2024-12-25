@@ -1,0 +1,33 @@
+C:\Users\ÖĞRENCİ\Desktop\Film Otomasyonu\kutuphane\kutuphane\bin\Debug\kutuphane.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Film Otomasyonu\kutuphane\kutuphane\bin\Debug\kutuphane.exe
+C:\Users\ÖĞRENCİ\Desktop\Film Otomasyonu\kutuphane\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\ÖĞRENCİ\Desktop\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.Form2.resources
+C:\Users\ÖĞRENCİ\Desktop\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.exe
+C:\Users\ÖĞRENCİ\Desktop\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.pdb
+J:\Film Otomasyonu\kutuphane\kutuphane\bin\Debug\kutuphane.exe.config
+J:\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.exe
+J:\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.pdb
+J:\Film Otomasyonu\kutuphane\kutuphane\bin\Debug\kutuphane.exe
+J:\Film Otomasyonu\kutuphane\kutuphane\bin\Debug\kutuphane.pdb
+J:\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.csprojResolveAssemblyReference.cache
+J:\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.Form1.resources
+J:\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.Form2.resources
+J:\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.Properties.Resources.resources
+J:\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Film Otomasyonu\kutuphane\kutuphane\bin\Debug\kutuphane.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.pdb
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Film Otomasyonu\kutuphane\kutuphane\bin\Debug\kutuphane.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Film Otomasyonu\kutuphane\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.Form2.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Film Otomasyonu\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Film Otomasyonu\kutuphane2\kutuphane\bin\Debug\kutuphane.exe.config
+C:\Users\user\Desktop\10-M\Film Otomasyonu\kutuphane2\kutuphane\obj\Debug\kutuphane.exe
+C:\Users\user\Desktop\10-M\Film Otomasyonu\kutuphane2\kutuphane\obj\Debug\kutuphane.pdb
